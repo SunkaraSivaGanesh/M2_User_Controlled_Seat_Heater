@@ -24,4 +24,10 @@ Folder             | Description
 * future skills
 * geeks for geeks
 
+## ON
+![Totalactivity ON](https://user-images.githubusercontent.com/101381519/164454611-f060ea7a-db59-4276-b629-d5d9cacb282d.png)
+
+## OFF
+
+
 
