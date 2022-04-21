@@ -6,3 +6,4 @@
 [![Code Quality - Cppcheck](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/c-cpp.yml)
 [![Bulid CI - windows](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/main.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/main.yml)
 [![Build_CI - Linux](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/Linux.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/Linux.yml)
+[![Git Inspector](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/GitInspector.yml)
