@@ -4,3 +4,4 @@
 ![codiga score](https://api.codiga.io/project/32907/score/svg)
 ![codiga badge](https://api.codiga.io/project/32907/status/svg)
 [![Code Quality - Cppcheck](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/c-cpp.yml)
+[![Bulid CI - windows](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/main.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M2_User_Controlled_Seat_Heater/actions/workflows/main.yml)
