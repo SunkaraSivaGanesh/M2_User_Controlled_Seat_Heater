@@ -26,7 +26,7 @@ Heated seats can make cars much more comfortable in the winter, or for those who
 * potential Switch
 * resister
 
-# SWOT Analysis- Strengths, and Weakness, Opportunities threats
+# SWOT Analysis- Strengths, and Weakness, Opportunities, threats
 
 ## Strengths
 
