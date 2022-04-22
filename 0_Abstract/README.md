@@ -1,1 +1,4 @@
 # M2_User_Controlled_Seat_Heater
+
+## Abstract
+In our project the main aim is to design and develop the system which is capable of monitoring the user's existance and Heat Monitoring. Now a days world is facing problem with cooling issue due to weather conditions because of that the vechicle seats are getting cold and making the user drive the vechile uncomfortably , So inorder to resolve this issue I have come up with an idea that is seat heater controlled by the user. So in this Generation everything is becoming automated and everyone is looking for the new products to made the life easier. Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer. The heater in some vehicles work well, but the car’s seat warmer is close to your body allowing you to warm up faster. In some cases, the seat warms up before the rest of the vehicle does.
